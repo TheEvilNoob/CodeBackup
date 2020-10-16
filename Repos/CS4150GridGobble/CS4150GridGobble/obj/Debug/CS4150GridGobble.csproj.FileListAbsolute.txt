@@ -1,0 +1,7 @@
+C:\Users\Robert Jr\Source\Repos\CS4150GridGobble\CS4150GridGobble\bin\Debug\CS4150GridGobble.exe.config
+C:\Users\Robert Jr\Source\Repos\CS4150GridGobble\CS4150GridGobble\bin\Debug\CS4150GridGobble.exe
+C:\Users\Robert Jr\Source\Repos\CS4150GridGobble\CS4150GridGobble\bin\Debug\CS4150GridGobble.pdb
+C:\Users\Robert Jr\Source\Repos\CS4150GridGobble\CS4150GridGobble\obj\Debug\CS4150GridGobble.csprojAssemblyReference.cache
+C:\Users\Robert Jr\Source\Repos\CS4150GridGobble\CS4150GridGobble\obj\Debug\CS4150GridGobble.csproj.CoreCompileInputs.cache
+C:\Users\Robert Jr\Source\Repos\CS4150GridGobble\CS4150GridGobble\obj\Debug\CS4150GridGobble.exe
+C:\Users\Robert Jr\Source\Repos\CS4150GridGobble\CS4150GridGobble\obj\Debug\CS4150GridGobble.pdb

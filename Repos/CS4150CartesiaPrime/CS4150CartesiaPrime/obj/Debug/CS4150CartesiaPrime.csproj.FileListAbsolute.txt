@@ -1,0 +1,7 @@
+C:\Users\Robert Jr\Source\Repos\CS4150CartesiaPrime\CS4150CartesiaPrime\bin\Debug\CS4150CartesiaPrime.exe.config
+C:\Users\Robert Jr\Source\Repos\CS4150CartesiaPrime\CS4150CartesiaPrime\bin\Debug\CS4150CartesiaPrime.exe
+C:\Users\Robert Jr\Source\Repos\CS4150CartesiaPrime\CS4150CartesiaPrime\bin\Debug\CS4150CartesiaPrime.pdb
+C:\Users\Robert Jr\Source\Repos\CS4150CartesiaPrime\CS4150CartesiaPrime\obj\Debug\CS4150CartesiaPrime.csprojAssemblyReference.cache
+C:\Users\Robert Jr\Source\Repos\CS4150CartesiaPrime\CS4150CartesiaPrime\obj\Debug\CS4150CartesiaPrime.csproj.CoreCompileInputs.cache
+C:\Users\Robert Jr\Source\Repos\CS4150CartesiaPrime\CS4150CartesiaPrime\obj\Debug\CS4150CartesiaPrime.exe
+C:\Users\Robert Jr\Source\Repos\CS4150CartesiaPrime\CS4150CartesiaPrime\obj\Debug\CS4150CartesiaPrime.pdb

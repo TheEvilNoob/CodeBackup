@@ -1,0 +1,7 @@
+C:\Users\Robert Jr\Source\Repos\CS4150Fireworks\CS4150Fireworks\bin\Debug\CS4150Fireworks.exe.config
+C:\Users\Robert Jr\Source\Repos\CS4150Fireworks\CS4150Fireworks\bin\Debug\CS4150Fireworks.exe
+C:\Users\Robert Jr\Source\Repos\CS4150Fireworks\CS4150Fireworks\bin\Debug\CS4150Fireworks.pdb
+C:\Users\Robert Jr\Source\Repos\CS4150Fireworks\CS4150Fireworks\obj\Debug\CS4150Fireworks.csprojAssemblyReference.cache
+C:\Users\Robert Jr\Source\Repos\CS4150Fireworks\CS4150Fireworks\obj\Debug\CS4150Fireworks.csproj.CoreCompileInputs.cache
+C:\Users\Robert Jr\Source\Repos\CS4150Fireworks\CS4150Fireworks\obj\Debug\CS4150Fireworks.exe
+C:\Users\Robert Jr\Source\Repos\CS4150Fireworks\CS4150Fireworks\obj\Debug\CS4150Fireworks.pdb

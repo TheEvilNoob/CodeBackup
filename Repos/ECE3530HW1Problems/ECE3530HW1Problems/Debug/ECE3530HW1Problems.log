@@ -1,0 +1,3 @@
+﻿  ECE3530HW1Problems.cpp
+c:\users\robert jr\source\repos\ece3530hw1problems\ece3530hw1problems\ece3530hw1problems.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ECE3530HW1Problems.vcxproj -> C:\Users\Robert Jr\Source\Repos\ECE3530HW1Problems\Debug\ECE3530HW1Problems.exe

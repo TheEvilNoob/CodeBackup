@@ -1,0 +1,7 @@
+C:\Users\Robert Jr\Source\Repos\PS3-3\PS3-3\obj\Debug\PS3-3.csprojAssemblyReference.cache
+C:\Users\Robert Jr\Source\Repos\PS3-3\PS3-3\obj\Debug\PS3-3.csproj.CoreCompileInputs.cache
+C:\Users\Robert Jr\Source\Repos\PS3-3\PS3-3\bin\Debug\PS3-3.exe.config
+C:\Users\Robert Jr\Source\Repos\PS3-3\PS3-3\bin\Debug\PS3-3.exe
+C:\Users\Robert Jr\Source\Repos\PS3-3\PS3-3\bin\Debug\PS3-3.pdb
+C:\Users\Robert Jr\Source\Repos\PS3-3\PS3-3\obj\Debug\PS3-3.exe
+C:\Users\Robert Jr\Source\Repos\PS3-3\PS3-3\obj\Debug\PS3-3.pdb

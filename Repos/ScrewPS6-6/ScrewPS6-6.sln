@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScrewPS6-6", "ScrewPS6-6\ScrewPS6-6.vcxproj", "{3B5434B0-D3C0-407D-BC91-E4DEEAB2B9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B5434B0-D3C0-407D-BC91-E4DEEAB2B9C1}.Debug|x64.ActiveCfg = Debug|x64
+		{3B5434B0-D3C0-407D-BC91-E4DEEAB2B9C1}.Debug|x64.Build.0 = Debug|x64
+		{3B5434B0-D3C0-407D-BC91-E4DEEAB2B9C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B5434B0-D3C0-407D-BC91-E4DEEAB2B9C1}.Debug|x86.Build.0 = Debug|Win32
+		{3B5434B0-D3C0-407D-BC91-E4DEEAB2B9C1}.Release|x64.ActiveCfg = Release|x64
+		{3B5434B0-D3C0-407D-BC91-E4DEEAB2B9C1}.Release|x64.Build.0 = Release|x64
+		{3B5434B0-D3C0-407D-BC91-E4DEEAB2B9C1}.Release|x86.ActiveCfg = Release|Win32
+		{3B5434B0-D3C0-407D-BC91-E4DEEAB2B9C1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5F42436-3046-49E2-B140-272E445AA4DD}
+	EndGlobalSection
+EndGlobal

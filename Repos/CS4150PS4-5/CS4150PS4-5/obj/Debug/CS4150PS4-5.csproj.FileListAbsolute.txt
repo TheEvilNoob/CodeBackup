@@ -1,0 +1,7 @@
+C:\Users\Robert Jr\Source\Repos\CS4150PS4-5\CS4150PS4-5\bin\Debug\CS4150PS4-5.exe.config
+C:\Users\Robert Jr\Source\Repos\CS4150PS4-5\CS4150PS4-5\bin\Debug\CS4150PS4-5.exe
+C:\Users\Robert Jr\Source\Repos\CS4150PS4-5\CS4150PS4-5\bin\Debug\CS4150PS4-5.pdb
+C:\Users\Robert Jr\Source\Repos\CS4150PS4-5\CS4150PS4-5\obj\Debug\CS4150PS4-5.csprojAssemblyReference.cache
+C:\Users\Robert Jr\Source\Repos\CS4150PS4-5\CS4150PS4-5\obj\Debug\CS4150PS4-5.csproj.CoreCompileInputs.cache
+C:\Users\Robert Jr\Source\Repos\CS4150PS4-5\CS4150PS4-5\obj\Debug\CS4150PS4-5.exe
+C:\Users\Robert Jr\Source\Repos\CS4150PS4-5\CS4150PS4-5\obj\Debug\CS4150PS4-5.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS3-3", "PS3-3\PS3-3.csproj", "{01A5023E-AC33-4295-B022-5577F3AFF8CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A5023E-AC33-4295-B022-5577F3AFF8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A5023E-AC33-4295-B022-5577F3AFF8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A5023E-AC33-4295-B022-5577F3AFF8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A5023E-AC33-4295-B022-5577F3AFF8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11A4C7F5-5DDD-4073-8A2C-2EBF559ECF0B}
+	EndGlobalSection
+EndGlobal
